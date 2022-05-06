@@ -1,0 +1,15 @@
+.result{
+  width: 50%;
+  height: 300px;
+  border: solid black 2px;
+  margin: 30px 25%;
+  overflow-wrap: break-word;
+  padding: 10px;
+  
+}
+
+.clear{
+  
+  margin-left: 47%;
+  margin-bottom: 10px;
+}
